@@ -1,0 +1,2 @@
+load("/Users/macbookpro/Desktop/git hut repositorios/Problem_Set_2/3. STORE/training_sinna.rds")
+load("/Users/carlosvergara/Library/CloudStorage/OneDrive-UniversidaddelosAndes/2023/2023-1/BIG DATA/TALLERES GRUPALES/TALLER No. 3/Problem_Set_3_Making_Money_with_ML/3. STORE/df_test.rds")
