@@ -43,6 +43,6 @@ Se anexan las bases de datos utilizadas, sin modificaciones.
 
 Dentro de la carpeta se encuentra: 
 
-[...]
+Se agregan las gráficas de uso de palabras y del modelo finalmente utilizado.
 
 Este Problem Set se trabajó con licencia MIT. 
