@@ -45,4 +45,4 @@ Dentro de la carpeta se encuentra:
 
 [...]
 
-Este Problem Set se trabajó en la versión de R 4.2.0 y licencia MIT. 
+Este Problem Set se trabajó con licencia MIT. 
