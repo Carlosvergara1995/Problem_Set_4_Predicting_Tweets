@@ -32,13 +32,12 @@ Se encuentra dos carpetas. (i). Documentos del traller y la base de datos y (ii)
 
 ## 2. SCRIPTS:
 
-0.[...[
-
+Se presenta documento script ligado a Google Colab con el proceso de análisis de los datos, así como los correspondientes modelos, los cuales fueron proceados en el lenguaje Phyton. 
  
 
 ## 3. STORES:
 
-[..]
+Se anexan las bases de datos utilizadas, sin modificaciones. 
 
 ## 4. VIEWS:
 
